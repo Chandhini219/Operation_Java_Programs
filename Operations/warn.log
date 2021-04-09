@@ -1,0 +1,9 @@
+[main] WARN  PropertyConfig.class  - This is warning message
+[main] ERROR PropertyConfig.class  - This is error message
+[main] FATAL PropertyConfig.class  - This is fatal message
+[main] WARN  PropertyConfig.class  - This is warning message
+[main] ERROR PropertyConfig.class  - This is error message
+[main] FATAL PropertyConfig.class  - This is fatal message
+[main] WARN  PropertyConfig.class  - This is warning message---
+[main] ERROR PropertyConfig.class  - This is error message---
+[main] FATAL PropertyConfig.class  - This is fatal message---

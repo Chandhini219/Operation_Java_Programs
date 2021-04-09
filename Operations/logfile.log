@@ -1,0 +1,16 @@
+2021-03-24 11:30:51,284 INFO  [class] This is info message 
+2021-03-24 11:30:51,284 WARN  [class] This is warning message 
+2021-03-24 11:30:51,285 ERROR [class] This is error message 
+2021-03-24 11:30:51,285 FATAL [class] This is fatal message 
+2021-03-24 11:38:51,381 INFO  [class] This is info message 
+2021-03-24 11:38:51,382 WARN  [class] This is warning message 
+2021-03-24 11:38:51,382 ERROR [class] This is error message 
+2021-03-24 11:38:51,382 FATAL [class] This is fatal message 
+2021-03-24 11:46:56,723 INFO  [class] This is info message 
+2021-03-24 11:46:56,724 WARN  [class] This is warning message 
+2021-03-24 11:46:56,724 ERROR [class] This is error message 
+2021-03-24 11:46:56,724 FATAL [class] This is fatal message 
+2021-03-24 11:48:22,502 INFO  [class] This is info message-- 
+2021-03-24 11:48:22,502 WARN  [class] This is warning message-- 
+2021-03-24 11:48:22,502 ERROR [class] This is error message-- 
+2021-03-24 11:48:22,502 FATAL [class] This is fatal message-- 
